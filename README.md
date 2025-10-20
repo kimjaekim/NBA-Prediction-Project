@@ -214,24 +214,16 @@ __pycache__/
 
 ---
 
-## 🤝 기여하기
+## 📚 학습 자료
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+### 참고 문헌
+- NBA 공식 통계 데이터
+- 머신러닝 모델링 기법
+- 몬테카를로 시뮬레이션 방법론
 
----
+### 관련 기술 스택
+- **Python**: 데이터 분석 및 머신러닝
+- **Scikit-learn**: 모델 학습 및 평가
+- **XGBoost, LightGBM**: 그래디언트 부스팅 모델
+- **Pandas, NumPy**: 데이터 처리
 
-## 📄 라이선스
-
-이 프로젝트는 MIT 라이선스 하에 배포됩니다.
-
-## 📞 연락처
-
-프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
-
----
-
-**Made with ❤️ for NBA Analytics**
