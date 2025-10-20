@@ -227,3 +227,7 @@ __pycache__/
 - **XGBoost, LightGBM**: 그래디언트 부스팅 모델
 - **Pandas, NumPy**: 데이터 처리
 
+### 📂 프로젝트 관련 자료
+
+- [프로젝트 발표 PPT (Google Slides)](https://drive.google.com/drive/folders/17W5_ZEEiJrhaOszeDXzEteBS3UOd3rJi)
+- [최종 보고서 PDF (Google Drive)](https://drive.google.com/drive/folders/17W5_ZEEiJrhaOszeDXzEteBS3UOd3rJi)
