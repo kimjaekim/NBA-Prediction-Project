@@ -229,5 +229,6 @@ __pycache__/
 
 ### 📂 프로젝트 관련 자료
 
-- [프로젝트 발표 PPT (Google Slides)](https://drive.google.com/drive/folders/17W5_ZEEiJrhaOszeDXzEteBS3UOd3rJi)
-- [최종 보고서 PDF (Google Drive)](https://drive.google.com/drive/folders/17W5_ZEEiJrhaOszeDXzEteBS3UOd3rJi)
+- [프로젝트 발표 PPT (Google Slides)](https://drive.google.com/file/d/1WxHNFq0avKgcnFZhJa8DYzITP8QtpYbp/view?usp=sharing)
+- [최종 보고서 PDF (Google Drive)](https://drive.google.com/file/d/1HIxUUm4wuSU0A482FyGRxSQIALJr7nHW/view?usp=sharing)
+
